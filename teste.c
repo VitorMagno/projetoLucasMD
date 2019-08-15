@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 //testa se o "p" e o "q" é primo vendo o resto de todos os numeros ate a raiz quadrada do numero.
+
 long long ehprimo(long long p)
 {
 	long long i;
